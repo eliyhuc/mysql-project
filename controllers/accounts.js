@@ -30,6 +30,3 @@ router.get('/getUsers', (req,res) => {
 })
 
 export default router;
-
-
-//http://localhost:3001/api/accounts/getUsers
